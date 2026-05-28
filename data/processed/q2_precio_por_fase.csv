@@ -1,0 +1,10 @@
+fase_enso,variedad,observaciones,precio_promedio,precio_minimo,precio_maximo,diferencia_vs_promedio
+La Niña,Papa Criolla,303,1987.0,540.0,4166.0,539.0
+El Niño,Papa Criolla,240,1925.0,556.0,4548.0,476.0
+Neutro,Papa Criolla,393,1564.0,488.0,4611.0,115.0
+La Niña,Papa Parda Pastusa,303,1534.0,425.0,3331.0,86.0
+El Niño,Papa Parda Pastusa,240,1473.0,436.0,3381.0,24.0
+Neutro,Papa Parda Pastusa,393,1203.0,378.0,3386.0,-245.0
+La Niña,Papa R-12 Negra,303,1309.0,358.0,2905.0,-140.0
+El Niño,Papa R-12 Negra,240,1251.0,364.0,2903.0,-198.0
+Neutro,Papa R-12 Negra,393,1021.0,316.0,2894.0,-428.0

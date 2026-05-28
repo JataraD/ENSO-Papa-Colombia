@@ -1,0 +1,16 @@
+year,month,oni,phase,precio_promedio,lluvia_mm,temp_c,intensidad
+2015,12,2.6,El Niño,1756.0,18.5,12.08,El Niño Fuerte
+2015,11,2.5,El Niño,1772.0,42.2,12.21,El Niño Fuerte
+2016,1,2.5,El Niño,2121.0,43.6,12.36,El Niño Fuerte
+2015,10,2.4,El Niño,1730.0,47.1,13.06,El Niño Fuerte
+2016,2,2.2,El Niño,2063.0,49.0,12.2,El Niño Fuerte
+2015,9,2.1,El Niño,1792.0,63.1,13.69,El Niño Fuerte
+2023,10,2.0,El Niño,3099.0,52.4,12.31,El Niño Fuerte
+2023,11,2.0,El Niño,3033.0,41.3,12.28,El Niño Fuerte
+2023,12,2.0,El Niño,2938.0,48.6,11.7,El Niño Fuerte
+2015,8,1.8,El Niño,1787.0,62.4,14.39,El Niño Fuerte
+2023,9,1.8,El Niño,3093.0,64.8,13.36,El Niño Fuerte
+2024,1,1.8,El Niño,3246.0,49.2,11.93,El Niño Fuerte
+2000,1,-1.7,La Niña,515.0,89.5,10.04,La Niña Fuerte
+2009,12,1.7,El Niño,1042.0,47.7,11.6,El Niño Fuerte
+2010,10,-1.7,La Niña,1287.0,89.0,10.41,La Niña Fuerte

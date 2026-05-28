@@ -1,0 +1,31 @@
+escenario,mes,year,month,precio_pred,oni_input
+Neutro,1,2026,1,2958.0,0.0
+Neutro,2,2026,2,2895.0,0.0
+Neutro,3,2026,3,2973.0,0.0
+Neutro,4,2026,4,2984.0,0.0
+Neutro,5,2026,5,2968.0,0.0
+Neutro,6,2026,6,2998.0,0.0
+El Niño Mod.,1,2026,1,2986.0,1.0
+El Niño Mod.,2,2026,2,3141.0,1.0
+El Niño Mod.,3,2026,3,3079.0,1.0
+El Niño Mod.,4,2026,4,3215.0,1.0
+El Niño Mod.,5,2026,5,3239.0,1.0
+El Niño Mod.,6,2026,6,3277.0,1.0
+El Niño Fuerte,1,2026,1,2994.0,2.0
+El Niño Fuerte,2,2026,2,3359.0,2.0
+El Niño Fuerte,3,2026,3,3148.0,2.0
+El Niño Fuerte,4,2026,4,3402.0,2.0
+El Niño Fuerte,5,2026,5,3460.0,2.0
+El Niño Fuerte,6,2026,6,3499.0,2.0
+La Niña Mod.,1,2026,1,3066.0,-1.0
+La Niña Mod.,2,2026,2,2851.0,-1.0
+La Niña Mod.,3,2026,3,3128.0,-1.0
+La Niña Mod.,4,2026,4,3066.0,-1.0
+La Niña Mod.,5,2026,5,3052.0,-1.0
+La Niña Mod.,6,2026,6,3110.0,-1.0
+La Niña Fuerte,1,2026,1,3171.0,-2.0
+La Niña Fuerte,2,2026,2,2805.0,-2.0
+La Niña Fuerte,3,2026,3,3278.0,-2.0
+La Niña Fuerte,4,2026,4,3143.0,-2.0
+La Niña Fuerte,5,2026,5,3130.0,-2.0
+La Niña Fuerte,6,2026,6,3215.0,-2.0

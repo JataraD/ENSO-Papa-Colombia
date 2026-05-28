@@ -1,0 +1,11 @@
+{
+  "pearson_r": 0.0331,
+  "pearson_p": 0.8723,
+  "spearman_rho": -0.0294,
+  "r_squared": 0.0011,
+  "precio_promedio_nino": 1535.0,
+  "precio_promedio_nina": 1597.0,
+  "precio_promedio_neutro": 803.0,
+  "diferencia_nino_pct": 91.3,
+  "diferencia_nina_pct": 99.0
+}
